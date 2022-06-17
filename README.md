@@ -13,7 +13,7 @@ The dataset file can be found below:
 * [Dataset]([http://bit.ly/CarreFourDataset](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view))
 
 ## Project Link
-The project is published in RPubs. Access through this [Link]([https://rpubs.com/Brian-Onayngo/913650](https://rpubs.com/Brian-Onayngo/915732))
+The project is published in RPubs. Access through this [Link](https://rpubs.com/Brian-Onayngo/915732)
 
 ## Installation
 
